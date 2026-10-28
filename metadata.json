@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "Interactive AI study assistant for college students to explain notes, summarize key points, and generate practice quizzes in Simple English or Telugu-English using Google Gemma open-weight model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
